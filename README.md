@@ -1,7 +1,7 @@
 ==============================================================
 Script For Creating Tiday Set From  Human Activity Recognition Using Smartphones Dataset
 ==============================================================
-Version 0.1 by Sandeep Mehta
+by Sandeep Mehta
 ==============================================================
 
 This script reads data from the "Human Activity Recognition Using Smartphones Dataset Version 1.0" and produces a tidy - dataset.
