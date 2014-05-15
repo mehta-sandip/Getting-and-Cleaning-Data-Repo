@@ -49,6 +49,8 @@ Script Description
 - With the help of the "melt" and "dcast" functions of the "reshape2" package, the data is converted into a table containing mean values of all the included features and the data is written to the "activity_tidy_data.txt" file.
 
 
+Description of the "activity_tidy_data.txt" file may be found in the "CodeBook.md" file. 
+
 License:
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
